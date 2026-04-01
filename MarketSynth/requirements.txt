@@ -1,0 +1,4 @@
+numpy
+yfinance
+pandas_ta
+scipy
